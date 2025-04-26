@@ -1,0 +1,119 @@
+{
+    "cards": [
+        {
+            "id": "yellow_plus_1",
+            "type": "yellow",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "green_plus_1",
+            "type": "green",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "blue_plus_1",
+            "type": "blue",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "purple_plus_1",
+            "type": "purple",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "red_plus_1",
+            "type": "red",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "yellow_plus_2",
+            "type": "yellow",
+            "value": 2,
+            "count": 1
+        },
+        {
+            "id": "green_plus_2",
+            "type": "green",
+            "value": 2,
+            "count": 1
+        },
+        {
+            "id": "blue_plus_2",
+            "type": "blue",
+            "value": 2,
+            "count": 1
+        },
+        {
+            "id": "purple_plus_2",
+            "type": "purple",
+            "value": 2,
+            "count": 1
+        },
+        {
+            "id": "red_plus_2",
+            "type": "red",
+            "value": 2,
+            "count": 1
+        },
+        {
+            "id": "yellow_minus_1",
+            "type": "yellow",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "green_minus_1",
+            "type": "green",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "blue_minus_1",
+            "type": "blue",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "purple_minus_1",
+            "type": "purple",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "red_minus_1",
+            "type": "red",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "multi_plus_1",
+            "type": "multi",
+            "value": 1,
+            "count": 5
+        },
+        {
+            "id": "multi_minus_1",
+            "type": "multi",
+            "value": -1,
+            "count": 2
+        },
+        {
+            "id": "last_plus_1",
+            "type": "last",
+            "value": 1,
+            "count": 3
+        },
+        {
+            "id": "last_plus_2",
+            "type": "last",
+            "value": 2,
+            "count": 2
+        }
+    ],
+    "total_cards": 53
+}
